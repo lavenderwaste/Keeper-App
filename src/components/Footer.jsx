@@ -6,7 +6,7 @@ function Footer() {
 
   return (
     <footer>
-      <p>Created by Jaime in {year}</p>
+      <p>Created by Jaime Rodriguez in {year}</p>
     </footer>
   );
 }
